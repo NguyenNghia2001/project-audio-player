@@ -4,7 +4,6 @@
 The application is run online on the website https://snack.expo.dev/ <br>
 - Step 1: create an expo account to run the app demo <br>
 - Step 2: choose the interface to demo as web, iphone .. or your personal phone
-- Step 3: Practical experience with UI Music (clicking bottom tab will move to new page and bottom menus will be active)
 ### View code in Screen
 - AudioList 
 ```php
