@@ -75,7 +75,10 @@ const Player = () => {
 - Demo 01
 <img src="./assets/Audio.png"  width="320" height="620">
 
-- Demo 02
+- Demo 02 Ask for permission from the device
+<img src="./assets/Allow.png"  width="320" height="620">
+
+- Demo 03
 <img src="./assets/Modal.png"  width="320" height="620">
 
 
